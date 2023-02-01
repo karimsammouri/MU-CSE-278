@@ -14,8 +14,15 @@ as well as the program manual I created, both of which are included in the repos
 <h2>General Project Requirements</h2>
 <img width="700" src="https://github.com/karimsammouri/MU-CSE-278/blob/main/Project04/Screenshots/Overview.png">
 
-<h2>Project Requirement: Interactive Mode</h2>
+<h2>General Console Usage</h2>
+<img width="700" src="https://github.com/karimsammouri/MU-CSE-278/blob/main/Project04/Screenshots/Synopsis.png">
+
+<h2>Option Descriptions</h2>
+<img width="700" src="https://github.com/karimsammouri/MU-CSE-278/blob/main/Project04/Screenshots/Options.png">
+
+<h2>Project Requirement and Usage: Interactive Mode</h2>
 <img width="700" src="https://github.com/karimsammouri/MU-CSE-278/blob/main/Project04/Screenshots/Interactive.png">
+<img width="700" src="https://github.com/karimsammouri/MU-CSE-278/blob/main/Project04/Screenshots/InteractiveUsage.png">
 
 <h2>Project Requirement: Load File</h2>
 <img width="700" src="https://github.com/karimsammouri/MU-CSE-278/blob/main/Project04/Screenshots/Load.png">
