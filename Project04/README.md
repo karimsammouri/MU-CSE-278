@@ -6,7 +6,7 @@ Built using C++ and SQL.
 Makes use of I/O streams and string processing.
 Project submission for Miami University's CSE 278: Systems I during the Fall 2020 semester.
 This project is wholly desgined and implemented by me with all rights reserved.
-Given I no longer have access to the course's database at the time of this writing, 
+Given that I no longer have access to the course's database at the time of this writing, 
 live samples are limited. The following samples are based on the project's 
 requirements document provided by the professor 
 as well as the program manual I created, both of which are included in the repository.
